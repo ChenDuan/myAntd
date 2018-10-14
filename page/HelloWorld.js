@@ -1,5 +1,3 @@
 export default () => {
-    return (
-	    <div>Hello World</div>
-    )
+	return <h1>Hello World</h1>
 }
